@@ -1,4 +1,4 @@
-package com.github.otusHW.homework.HW.task1;
+package com.github.otusHW.homework.HW.print.task1;
 
 import java.util.Base64;
 import java.util.Scanner;
