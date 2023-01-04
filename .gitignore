@@ -1,6 +1,7 @@
+out/
 *.idea
 *.xml
 *.iml
-out/
 .idea/
+
 
