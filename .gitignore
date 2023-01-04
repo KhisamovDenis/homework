@@ -3,5 +3,7 @@ out/
 *.xml
 *.iml
 .idea/
+out/
+out/
 
 
